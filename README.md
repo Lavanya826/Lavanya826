@@ -313,6 +313,22 @@ current_focus:
 
 </div>
 
+## 🌱 My Developer Journey
+
+### A few months ago:
+- ❌ Didn't know Git or GitHub.
+
+### Today:
+- ✅ Created multiple repositories
+- ✅ Learned Git basics
+- ✅ Learned branching
+- ✅ Pushed projects to GitHub
+- ✅ Working with GitHub daily
+
+I'm still learning every day, and every commit brings me one step closer to becoming a better developer. 🚀
+
+⭐ Thanks for visiting my profile!
+
 ---
 
 <div align="center">
