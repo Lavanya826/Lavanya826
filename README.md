@@ -43,7 +43,7 @@ engineer:
   philosophy: "Building scalable, data-driven products with a product engineering mindset"
 ```
 
-I'm a results-driven **AI/ML Engineering** student maintaining a **8.57/10 CGPA**, with hands-on experience designing and shipping **data-driven applications** and **responsive full-stack platforms**. My work spans the intersection of **machine learning systems**, **backend architecture**, and **user-centric frontend engineering**, backed by real-world agile project execution during my internship at Inamigos Foundation.
+I'm a results-driven **AI/ML Engineering** student maintaining a **9.14 /10 CGPA**, with hands-on experience designing and shipping **data-driven applications** and **responsive full-stack platforms**. My work spans the intersection of **machine learning systems**, **backend architecture**, and **user-centric frontend engineering**, backed by real-world agile project execution during my internship at Inamigos Foundation.
 
 I approach engineering with a **product mindset** — not just writing code, but understanding the end-to-end lifecycle of a feature: from data pipelines and model design, to API architecture, to a polished user interface that ships reliably.
 
