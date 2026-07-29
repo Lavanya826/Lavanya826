@@ -8,7 +8,7 @@
 
 <br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-8.57%20%2F%2010.0-6a0dad?style=for-the-badge&labelColor=1a1a2e)
+![CGPA](https://img.shields.io/badge/CGPA-9.14%20%2F%2010.0-6a0dad?style=for-the-badge&labelColor=1a1a2e)
 ![Degree](https://img.shields.io/badge/B.E.-AI%20%26%20ML-4b0082?style=for-the-badge&labelColor=1a1a2e)
 ![Location](https://img.shields.io/badge/Location-Pune%2C%20India-8a2be2?style=for-the-badge&labelColor=1a1a2e&logo=googlemaps&logoColor=white)
 
