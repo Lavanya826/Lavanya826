@@ -236,30 +236,6 @@ Contributed to end-to-end execution of AI-integrated web features within an agil
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lavanya826&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&icon_color=8a2be2&text_color=c9c9c9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lavanya826&theme=radical&hide_border=true&background=1a1a2e&ring=8a2be2&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavanya826&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=A78BFA&text_color=c9c9c9" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lavanya826&theme=radical&no-frame=true&no-bg=false&margin-w=10&column=7" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
