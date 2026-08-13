@@ -228,10 +228,10 @@ Contributed to end-to-end execution of AI-integrated web features within an agil
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/lavanya826)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/user/lavanya826)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://hackerrank.com/lavanya826)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://codechef.com/users/lavanya826)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/lavanyawarang_2/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/profile/lavanyaw65dk)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/lavanyawarang2)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1a1a2e?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/lavanyawarang6)
 
 </div>
 
