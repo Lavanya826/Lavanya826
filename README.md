@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://lavanya826.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/lavanya-warang"><img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lavanya-warang-1b85bb364/"><img src="https://img.shields.io/badge/LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:lavanyawarang2@gmail.com"><img src="https://img.shields.io/badge/Email-8a2be2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/lavanya826"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white" /></a>
 
