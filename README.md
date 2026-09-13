@@ -283,9 +283,9 @@ current_focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/lavanyawarang2%40gmail.com-6a0dad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lavanyawarang2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lavanya-warang)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-4b0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-warang-1b85bb364/)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lavanya826)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-8a2be2?style=for-the-badge&logo=vercel&logoColor=white)](https://lavanya826.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-8a2be2?style=for-the-badge&logo=vercel&logoColor=white)](https://lavanya826.github.io/portfolio-2026/)
 
 </div>
 
